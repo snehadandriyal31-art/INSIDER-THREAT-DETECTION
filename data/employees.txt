@@ -1,0 +1,9 @@
+# id|name|department|role|clearance(analysts only)
+E101|Aarav Sharma|Finance|EMPLOYEE
+E102|Priya Nair|Engineering|EMPLOYEE
+E103|Rohan Mehta|HR|EMPLOYEE
+E104|Sana Khan|Finance|EMPLOYEE
+E105|Vikram Iyer|Engineering|EMPLOYEE
+E106|Neha Joshi|Sales|EMPLOYEE
+A201|Kabir Rao|SecOps|ANALYST|2
+A202|Meera Das|SecOps|ANALYST|1
